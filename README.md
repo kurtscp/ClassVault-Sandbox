@@ -1,6 +1,6 @@
 # ClassVault
 
-> A role-based Learning Management System (LMS) for Instructors and Students, built with modern mobile-first technologies.
+> A role-based Learning Management System (LMS) for Instructors and Students, built with modern mobile-first technologies. shshdjsahduqudhudhuhdushdhs dsidjsiqdihqdh wdijdijds
 
 ---
 
